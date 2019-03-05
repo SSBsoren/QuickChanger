@@ -8,7 +8,9 @@ To switch background color.
      >Radio Buttons
 2.MainActivity.java
 -------------------
-  1.switch (checkedID){
+  >
+      switch (checkedID)
+                 {
                     case R.id.radio_btnB:
                         layout.setBackgroundColor(Color.parseColor("#74B9FF"));
                         break;
@@ -18,3 +20,4 @@ To switch background color.
                     case R.id.radio_btnR:
                         layout.setBackgroundColor(Color.parseColor("#FF3E40"));
                         break;
+                    }
