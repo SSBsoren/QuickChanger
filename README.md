@@ -1,4 +1,4 @@
-# QuickChanger
+# QuickChangerBGC
 To switch background color.
 -----------------------------------------------------------------------------------------------------------
 1.activity.xml
